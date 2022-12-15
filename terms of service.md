@@ -1,4 +1,4 @@
-Terms of Service
+**Terms of Service**
 Legal Age
 You may not use TwinsBot or any of Twins's services if you're under the legal age (13 Years) to use Discord.
 
